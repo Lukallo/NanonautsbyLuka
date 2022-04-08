@@ -10,14 +10,17 @@ body {
 #aboutus {
 	margin: 20px 5%;
 	font-size: 24px;
+	font-weight: 600;
 }
 #wethenano{
-	margin: 10px 5%;
-	font-size: 18px
+	margin: 12px 5%;
+	font-size: 18px;
+	font-weight: 500;
 }
 #ournames{
 	margin: 0px 5%;
 	font-size: 16px;
+	fot-weight: 550;
 }
 .title {
   text-decoration: none;
@@ -38,6 +41,7 @@ body {
 	text-decoration: none;
 	color: black;
 	font-size: 16px;
+	font-weight: 600;
 }
 
 .toplink:hover {
